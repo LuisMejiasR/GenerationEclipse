@@ -1,8 +1,0 @@
-package com.generation.f20220601.modelos;
-
-public class Perro {
-	private Integer cantPaseos;
-	private Float tamanioHocico;
-	private String sonidoVocal;
-	
-}

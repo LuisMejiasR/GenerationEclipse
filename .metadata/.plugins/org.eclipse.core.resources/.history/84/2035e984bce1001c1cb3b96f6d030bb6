@@ -1,9 +1,0 @@
-package com.generation.f20220601.modelos;
-
-public class Perro extends Mascota{
-	//la palabra extends significa que estamos usando herencia
-	private Integer cantPaseos;
-	private Float tamanioHocico;
-	private String sonidoVocal;
-	
-}
