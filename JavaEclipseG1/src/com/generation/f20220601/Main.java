@@ -59,6 +59,8 @@ public class Main {
 		clifford.hacerSonido();
 		
 		System.out.println("*************");
+		
+		//crear una lista de mascotas
 		List<Mascota> listaDeMascotas = new ArrayList<Mascota>(); //crear una lista
 		listaDeMascotas.add(regalon); //añadiendo la mascota dentro de la lista
 		listaDeMascotas.add(felix); //añadiendo la mascota dentro de la lista
