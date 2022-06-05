@@ -48,12 +48,16 @@ public class Moto extends VehiculoTerrestre{
     }
 
 
-    public void acelerar() {
+    public String acelerar() {
         System.out.println("Fiiiiuuuuum");
+    	
+        return "Fiiiiuuuuum";
     }
 
-    public void baseApoyo() {
+    public Boolean baseApoyo() {
         System.out.println("Si, tu moto tiene patita");
+        
+        return true;
     }
 
 

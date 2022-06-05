@@ -36,6 +36,8 @@ public class Main {
 			recorrer.acelerar();
 		}
 		
+		susuki.acelerar();
+		
 		
 	}
 }

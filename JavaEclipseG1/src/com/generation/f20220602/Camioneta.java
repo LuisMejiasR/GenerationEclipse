@@ -69,13 +69,17 @@ public class Camioneta extends VehiculoTerrestre{
     }
 
     //Polimorfismo
-    public void acelerar() {
+    public String acelerar() {
         System.out.println("Bruuuum");
+        
+        return  "Bruuuum";
     }
 
     //Funcion
-    public void aireAcondicionado() {
+    public Boolean aireAcondicionado() {
         System.out.println("Posee calefacción.");
+        
+        return true;
     }
 
 
